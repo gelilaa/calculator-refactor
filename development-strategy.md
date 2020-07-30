@@ -1,7 +1,7 @@
 # Calculator-Refactor: Development Strategy
 
 - The project is aim is to build simple calculator site using JS, HTML and CSS.
-The project will be developed in a small group by using branches and project board on GitHub.
+The project will be developed  by using branches and project board on GitHub.
 
 
 ---
