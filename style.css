@@ -1,0 +1,12 @@
+body{
+   background: rgb(12, 137, 211);
+   background: linear-gradient(104deg, rgba(12, 137, 211, 0.9056664902289041) 0%, rgba(1, 1, 1, 1) 100%);
+   font-family: 'Press Start 2P',
+   cursive;
+   color:whitesmoke;
+}
+
+form{
+    margin-top: 200px;
+    margin-left: 200px;
+}
