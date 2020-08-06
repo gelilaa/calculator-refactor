@@ -87,7 +87,7 @@ __The user can use the calculator and see the result__
 
 ---
 
-## 10. Documentation
+## 6. Documentation
 
 __The user can see a writen development strategy__
 
